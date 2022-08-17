@@ -1,0 +1,8 @@
+{
+  "registry-mirrors": ["https://dx5z2hy7.mirror.aliyuncs.com"],
+  "exec-opts": ["native.cgroupdriver=systemd"],
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "100m"
+  }
+}
